@@ -6,13 +6,9 @@ I'm ARZ And I Do Stuff
 <img align="right" src="https://lanyard.cnrad.dev/api/738186577695735828" alt="Discord Status">
 <h3 align="center"> Known languages: </h3>
 <div align="center">
-    ⭐ Python
+     Python
     <br>
     JS
-    <br>
-    ⭐ C#
-    <br>
-    ⭐ C++
     <br>
     HTML
     <br>
