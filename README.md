@@ -4,6 +4,7 @@ I'm ARZ, a guy who codes and stuff
 
 <br>
 <img align="right" src="https://lanyard.cnrad.dev/api/738186577695735828" alt="Discord Status"> 
+</br>
 
 <h2 align="center"> Known languages: </h2>
 <div align="center">
