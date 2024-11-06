@@ -1,6 +1,6 @@
 # ✨ About Me
 
-I'm shady, a programmer with a little bit of reverse engenieering knowledge and a whole lot of dumb thoughts.
+I'm ARZ And I Do Stuff
 </br>
 
 <img align="right" src="https://lanyard.cnrad.dev/api/738186577695735828" alt="Discord Status">
