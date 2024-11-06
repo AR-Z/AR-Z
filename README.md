@@ -1,28 +1,29 @@
 # ✨ About Me
 
-I'm ARZ, a guy who codes and stuff
-
-<br>
-<img align="right" src="https://lanyard.cnrad.dev/api/738186577695735828" alt="Discord Status"> 
+I'm shady, a programmer with a little bit of reverse engenieering knowledge and a whole lot of dumb thoughts.
 </br>
 
-<h2 align="center"> Known languages: </h2>
+<img align="right" src="https://lanyard.cnrad.dev/api/738186577695735828" alt="Discord Status">
+<h3 align="center"> Known languages: </h3>
 <div align="center">
-    ⭐ JS
+    ⭐ Python
     <br>
-    ⭐ HTML
+    JS
     <br>
-    ⭐ CSS
+    ⭐ C#
+    <br>
+    ⭐ C++
+    <br>
+    HTML
+    <br>
+    CSS
 </div>
-    
-# 💻 Currently Working On
-- Learning how to not die 😭
 
 # 📞 Contact Info
 
 I'm not really active on Github, so if you want to get in contact with me, your best bet is through either Discord or Twitter.
 
 ### Discord:
-- ARZ#1000 (738186577695735828)
+- ARZ (@fullstops) (738186577695735828)
 
 <br>
