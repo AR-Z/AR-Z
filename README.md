@@ -3,7 +3,7 @@
 I'm ARZ And I Do Stuff
 </br>
 
-<img align="right" src="https://lanyard.cnrad.dev/api/738186577695735828" alt="Discord Status">
+<img align="right" src="https://lanyard.cnrad.dev/api/223761666259681286" alt="Discord Status">
 <h3 align="center"> Known languages: </h3>
 <div align="center">
      Python
