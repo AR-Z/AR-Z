@@ -6,7 +6,6 @@
 <img align="center" src="https://lanyard.cnrad.dev/api/223761666259681286" alt="Discord Status">
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
