@@ -3,5 +3,5 @@
 
 <h3 align="center">fullstack dev</h3>
 
-<img align="center" src="https://lanyard.cnrad.dev/api/223761666259681286" alt="Discord Status">
+<p align="center"> <img align="center" src="https://lanyard.cnrad.dev/api/223761666259681286" alt="Discord Status"> </p>
 
